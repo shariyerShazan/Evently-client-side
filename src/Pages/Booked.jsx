@@ -110,7 +110,7 @@ function Booked() {
             {/*  */}
            
             {user ? (
-              <div className="w-full sm:w-auto">
+              <div className="w-full sm:w-auto hidden sm:block">
                 <button
                   onClick={() => setShowReview(booked.id)}
                   className="mt-4 sm:mt-0 bg-pink-500 hover:bg-pink-600 transition duration-300 text-white px-4 py-2 rounded-md shadow"
