@@ -18,7 +18,7 @@ function Navbar() {
       .catch(() => {});
   };
   return (
-    <div className="relative">
+    <div className="relative ">
       <ToastContainer />
       <div className="shadow-sm bg-gradient-to-r from-pink-200 via-white to-pink-200 z-50">
         <div className="navbar w-[90%] mx-auto">
