@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "thumbnail": "https://cdn.businessday.ng/2019/11/Technology-industry.jpg",
+    "name": "Tech Innovators Summit",
+    "category": "Tech",
+    "date": "2025-06-15",
+    "location": "Dhaka, Bangladesh",
+    "entryFee": "৳500",
+    "description": "Join leading tech minds from across the country for a full-day summit featuring live demos, expert panels, and networking opportunities that dive deep into the future of innovation and digital transformation."
+  },
+  {
+    "id": "2",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVkxPDAwHR2CTOqHMJ-IAfzXepxBcTc_9MEw&s",
+    "name": "Art & Soul Exhibition",
+    "category": "Art",
+    "date": "2025-06-20",
+    "location": "Chattogram, Bangladesh",
+    "entryFee": "৳0",
+    "description": "Experience the magic of creativity at the Art & Soul Exhibition, where traditional and contemporary artworks converge to showcase the cultural richness and artistic brilliance of Bangladesh and beyond."
+  },
+  {
+    "id": "3",
+    "thumbnail": "https://www.mckinsey.com/spContent/bespoke/tech-trends-2024-hero-nav/techtrends-hero-desktop.jpg",
+    "name": "Startup Launchpad",
+    "category": "Tech",
+    "date": "2025-07-01",
+    "location": "Sylhet, Bangladesh",
+    "entryFee": "৳300",
+    "description": "A must-attend event for budding entrepreneurs! Pitch your startup to a panel of seasoned investors, receive expert mentoring, and connect with key stakeholders in the startup ecosystem."
+  },
+  {
+    "id": "4",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0UyygwI-0PvWYUY6e5d7tmDyChC7pNhdoQw&s",
+    "name": "Street Art Festival",
+    "category": "Art",
+    "date": "2025-07-10",
+    "location": "Rajshahi, Bangladesh",
+    "entryFee": "৳100",
+    "description": "Color your world at the Street Art Festival with dynamic graffiti walls, live mural creations, street performances, and interactive art zones celebrating urban creativity and public expression."
+  },
+  {
+    "id": "5",
+    "thumbnail": "https://media.licdn.com/dms/image/v2/C5612AQFjboZ3ggD-uQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1645833122523?e=2147483647&v=beta&t=-QR75MdSMd2ooko6aXxF65TwdMAdDknBeORf8ebcXIs",
+    "name": "AI Conference 2025",
+    "category": "Tech",
+    "date": "2025-08-05",
+    "location": "Dhaka, Bangladesh",
+    "entryFee": "৳1000",
+    "description": "Step into the future at Bangladesh’s premier AI Conference featuring keynote speakers from top tech giants, hands-on workshops, and in-depth sessions on the latest trends in artificial intelligence and machine learning."
+  },
+  {
+    "id": "6",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjlW3jLHwiRg7HtZQim79Vb7uqv5j1dgOJg&s",
+    "name": "Modern Sculptures Showcase",
+    "category": "Art",
+    "date": "2025-08-15",
+    "location": "Khulna, Bangladesh",
+    "entryFee": "৳200",
+    "description": "Marvel at a curated display of bold and expressive modern sculptures crafted by talented artists, blending form, material, and imagination in a way that challenges traditional boundaries of art."
+  },
+  {
+    "id": "7",
+    "thumbnail": "https://thehill.com/wp-content/uploads/sites/2/2022/08/cyber_tech_software_coding_istock_0819.jpeg?strip=1",
+    "name": "Digital Transformation Talk",
+    "category": "Tech",
+    "date": "2025-09-01",
+    "location": "Dhaka, Bangladesh",
+    "entryFee": "৳0",
+    "description": "Learn how digital tools and technologies are revolutionizing industries. This event brings together thought leaders and IT professionals to discuss real-world case studies and strategic digital initiatives."
+  },
+  {
+    "id": "8",
+    "thumbnail": "https://english.news.cn/20221210/654576e36eb74324b6dc720fbe385253/20221210654576e36eb74324b6dc720fbe385253_0a842f97-cd20-4d05-bc66-cc43e89e515d.jpg",
+    "name": "Bangladesh Art Biennale",
+    "category": "Art",
+    "date": "2025-09-12",
+    "location": "Dhaka, Bangladesh",
+    "entryFee": "৳250",
+    "description": "A grand celebration of South Asian art and culture, the Bangladesh Art Biennale presents a diverse collection of paintings, installations, and multimedia works from renowned and emerging artists."
+  },
+  {
+    "id": "9",
+    "thumbnail": "https://women-in-tech.org/wp-content/uploads/2021/01/MAIN-womenintechglobalforum.jpg",
+    "name": "Women in Tech Forum",
+    "category": "Tech",
+    "date": "2025-10-05",
+    "location": "Barisal, Bangladesh",
+    "entryFee": "৳150",
+    "description": "Celebrate and empower women in technology through inspiring talks, mentorship sessions, panel discussions, and career guidance to bridge the gender gap in the tech industry."
+  },
+  {
+    "id": "10",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUURchc7AS4Hs_a8d7_eS8kXYRlhoWaxecg&s",
+    "name": "Visual Storytelling Workshop",
+    "category": "Art",
+    "date": "2025-10-15",
+    "location": "Rangpur, Bangladesh",
+    "entryFee": "৳300",
+    "description": "Unlock the secrets of visual storytelling through illustration, photography, and mixed media. This hands-on workshop is perfect for creatives who want to amplify their narrative power using visuals."
+  }
+]
