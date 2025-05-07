@@ -9,7 +9,7 @@ function Home() {
         document.title = "Home | EventLy";
       }, []);
   return (
-    <div>
+    <div >
       <Banner />
       <CatSport />
       <SlideBanner/>

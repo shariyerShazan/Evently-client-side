@@ -6,7 +6,7 @@ import { Outlet } from 'react-router'
 
 function MainLayout() {
   return (
-    <div >
+    <div className='overflow-x-hidden'>
         <Navbar />
         <div className=' min-h-[calc(100vh-326px)]'>
         {
