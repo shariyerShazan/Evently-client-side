@@ -48,6 +48,7 @@
 - **react-toastify**
 - **react-icons**
 - **react-toastify**
+<!-- - **dotenv** -->
 ---
 
 ##  Environment Variables (.env)
